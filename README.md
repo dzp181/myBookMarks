@@ -146,7 +146,6 @@
 ----------------------------------------------------------------------------
 #### <a name="section_record_weex"></a>
 **混合开发**
-**CSS**
 
 [CSS 列表样式(ul) | 菜鸟教程](http://www.runoob.com/css/css-list.html)
 
@@ -225,9 +224,9 @@
 [韩进的博客](http://www.aile1314.top/)
 
 [React JSX | 菜鸟教程](http://www.runoob.com/react/react-jsx.html)
+
 ----------------------------------------------------------------------------
 #### <a name="section_record_lock"></a>
-
 **内存管理**
 
 [理解 iOS 的内存管理 | 唐巧的博客](http://blog.devtang.com/2016/07/30/ios-memory-management/)
