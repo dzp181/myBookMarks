@@ -3,11 +3,10 @@
 
 *   [ReactiveCocoa](#section_reactiveCocoa) ★★★★
 *   [优秀个人博客](#section_record_blog) ★★★★
-*   [微信小程序](#section_wx_xcx) ★★★
+*   [微信小程序](#section_wx_xcx) ★★
 *   [混合开发](#section_record_weex) ★★★
 *   [内存管理](#section_record_lock) ★★★
-*   [UITest](#section_record_UITest) ★★★
-
+*   [UITest](#section_record_UITest) ★★
 
 ----------------------------------------------------------------------------
 #### <a name="section_reactiveCocoa"></a>
